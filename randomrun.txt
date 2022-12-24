@@ -1,0 +1,965 @@
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  o  @  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+Black Possible Moves: [34, 43, 56, 65]
+Choose 34
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  @  .  .  .  .  ?
+?  .  .  .  @  @  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 1
+Black: 4
+White Possible Moves: [33, 35, 53]
+Choose 33
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  o  @  .  .  .  .  ?
+?  .  .  .  o  @  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 3
+Black: 3
+Black Possible Moves: [32, 43, 56, 65]
+Choose 43
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  o  @  .  .  .  .  ?
+?  .  .  @  @  @  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 2
+Black: 5
+White Possible Moves: [35, 53]
+Choose 35
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  o  o  o  .  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 5
+Black: 3
+Black Possible Moves: [22, 23, 24, 25, 26, 36, 46, 56, 66]
+Choose 66
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  o  o  o  .  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  @  @  .  .  .  ?
+?  .  .  .  .  .  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 4
+Black: 5
+White Possible Moves: [42, 52, 53, 63, 64, 65, 77]
+Choose 65
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  o  o  o  .  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  .  .  o  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 6
+Black: 4
+Black Possible Moves: [22, 23, 24, 25, 26, 36, 46, 56, 64, 76]
+Choose 23
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  @  .  .  .  .  .  ?
+?  .  .  @  o  o  .  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  .  .  o  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 5
+Black: 6
+White Possible Moves: [12, 22, 32, 42, 52, 53, 63, 64, 67, 77]
+Choose 63
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  @  .  .  .  .  .  ?
+?  .  .  @  o  o  .  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  o  o  .  .  .  ?
+?  .  .  o  .  o  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 7
+Black: 5
+Black Possible Moves: [24, 25, 26, 36, 46, 56, 62, 64, 73, 76]
+Choose 26
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  @  .  .  @  .  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  o  o  .  .  .  ?
+?  .  .  o  .  o  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 6
+Black: 7
+White Possible Moves: [12, 13, 22, 25, 32, 36, 42, 52, 67, 77]
+Choose 36
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  @  .  .  @  .  .  ?
+?  .  .  @  o  o  o  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  o  o  .  .  .  ?
+?  .  .  o  .  o  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 8
+Black: 6
+Black Possible Moves: [24, 25, 37, 46, 56, 62, 64, 73, 76]
+Choose 76
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  .  .  ?
+?  .  .  @  .  .  @  .  .  ?
+?  .  .  @  o  o  o  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  o  .  @  @  .  .  ?
+?  .  .  .  .  .  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 6
+Black: 9
+White Possible Moves: [12, 13, 16, 17, 22, 32, 42, 52, 53, 64, 67, 75, 77, 86]
+Choose 17
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  .  .  @  o  o  o  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  o  .  @  @  .  .  ?
+?  .  .  .  .  .  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 8
+Black: 8
+Black Possible Moves: [16, 24, 25, 27, 37, 46, 56, 62, 72, 73]
+Choose 73
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  .  .  @  o  o  o  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  o  .  @  @  .  .  ?
+?  .  .  @  .  .  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 8
+Black: 9
+White Possible Moves: [12, 13, 22, 32, 42, 52, 53, 64, 67, 75, 77, 82, 83, 86]
+Choose 32
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  .  o  o  o  o  o  .  .  ?
+?  .  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  o  .  @  @  .  .  ?
+?  .  .  @  .  .  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 10
+Black: 8
+Black Possible Moves: [16, 21, 22, 24, 25, 27, 41, 46, 53, 56, 62, 72]
+Choose 41
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  .  @  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  o  .  @  @  .  .  ?
+?  .  .  @  .  .  @  .  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 9
+Black: 10
+White Possible Moves: [12, 13, 22, 31, 42, 52, 53, 64, 67, 75, 77, 82, 83, 86]
+Choose 77
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  .  @  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  .  o  .  @  o  .  .  ?
+?  .  .  @  .  .  @  o  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 11
+Black: 9
+Black Possible Moves: [16, 22, 24, 25, 27, 37, 46, 53, 56, 62, 67, 72, 74, 78, 88]
+Choose 62
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  .  @  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  @  o  .  @  o  .  .  ?
+?  .  .  @  .  .  @  o  .  ?
+?  .  .  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 11
+Black: 10
+White Possible Moves: [12, 13, 22, 31, 42, 52, 53, 61, 64, 71, 72, 75, 82, 83, 86]
+Choose 82
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  .  @  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  .  @  o  .  .  .  ?
+?  .  @  o  .  @  o  .  .  ?
+?  .  .  @  .  .  @  o  .  ?
+?  .  o  .  .  .  .  .  .  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 12
+Black: 10
+Black Possible Moves: [16, 22, 24, 25, 27, 37, 46, 53, 56, 64, 67, 72, 74, 78, 88]
+Choose 88
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  .  @  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  .  @  @  .  .  .  ?
+?  .  @  o  .  @  @  .  .  ?
+?  .  .  @  .  .  @  @  .  ?
+?  .  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 9
+Black: 14
+White Possible Moves: [12, 13, 22, 31, 42, 46, 52, 53, 61, 64, 67, 71, 75, 83, 86, 87]
+Choose 31
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  o  o  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  .  @  @  .  .  .  ?
+?  .  @  o  .  @  @  .  .  ?
+?  .  .  @  .  .  @  @  .  ?
+?  .  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 11
+Black: 13
+Black Possible Moves: [16, 21, 22, 24, 25, 27, 46, 53, 56, 64, 72, 74, 81]
+Choose 74
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  .  .  .  o  .  ?
+?  .  .  @  .  .  o  .  .  ?
+?  o  o  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  .  @  @  .  .  .  ?
+?  .  @  o  .  @  @  .  .  ?
+?  .  .  @  @  .  @  @  .  ?
+?  .  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 11
+Black: 14
+White Possible Moves: [12, 13, 14, 22, 42, 46, 51, 52, 53, 61, 64, 67, 71, 72, 75, 83, 84, 85, 86, 87]
+Choose 14
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  .  .  o  .  .  ?
+?  o  o  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  .  @  @  .  .  .  ?
+?  .  @  o  .  @  @  .  .  ?
+?  .  .  @  @  .  @  @  .  ?
+?  .  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 13
+Black: 13
+Black Possible Moves: [13, 16, 21, 22, 24, 25, 27, 46, 52, 53, 64, 72, 81]
+Choose 53
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  .  .  o  .  .  ?
+?  o  o  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  @  @  @  .  .  .  ?
+?  .  @  @  .  @  @  .  .  ?
+?  .  .  @  @  .  @  @  .  ?
+?  .  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 12
+Black: 15
+White Possible Moves: [42, 46, 51, 52, 64, 71, 72, 75, 83, 84, 86, 87]
+Choose 72
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  .  .  o  .  .  ?
+?  o  o  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  .  @  o  .  @  @  .  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  .  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 15
+Black: 13
+Black Possible Moves: [13, 16, 21, 22, 24, 25, 46, 52, 64, 71, 81]
+Choose 81
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  .  .  o  .  .  ?
+?  o  o  o  o  o  o  .  .  ?
+?  @  .  @  @  o  .  .  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  .  @  o  .  @  @  .  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 15
+Black: 14
+White Possible Moves: [42, 46, 51, 52, 56, 61, 64, 67, 71, 75, 78, 83, 84, 85, 86, 87]
+Choose 46
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  .  .  o  .  .  ?
+?  o  o  o  o  o  o  .  .  ?
+?  @  .  @  @  o  o  .  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  .  @  o  .  @  @  .  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 16
+Black: 14
+Black Possible Moves: [13, 16, 21, 22, 24, 25, 27, 37, 47, 52, 64, 71, 83]
+Choose 24
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  @  .  o  .  .  ?
+?  o  o  o  @  o  o  .  .  ?
+?  @  .  @  @  o  o  .  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  .  @  o  .  @  @  .  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 15
+Black: 16
+White Possible Moves: [13, 15, 25, 42, 51, 52, 56, 61, 64, 67, 71, 75, 78, 83, 84, 85, 86, 87]
+Choose 61
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  @  .  o  .  .  ?
+?  o  o  o  @  o  o  .  .  ?
+?  @  .  @  @  o  o  .  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  o  o  o  .  @  @  .  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 17
+Black: 15
+Black Possible Moves: [12, 13, 16, 21, 22, 25, 27, 37, 42, 47, 51, 52, 56, 57, 64, 71, 83]
+Choose 47
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  @  .  o  .  .  ?
+?  o  o  o  @  o  o  .  .  ?
+?  @  .  @  @  @  @  @  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  o  o  o  .  @  @  .  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 15
+Black: 18
+White Possible Moves: [13, 15, 25, 37, 51, 52, 56, 57, 58, 64, 67, 75, 78, 83, 84, 85, 86, 87]
+Choose 67
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  .  o  @  .  o  .  .  ?
+?  o  o  o  @  o  o  .  .  ?
+?  @  .  @  @  @  @  @  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  o  o  o  .  @  @  o  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 16
+Black: 18
+Black Possible Moves: [12, 13, 16, 21, 22, 25, 27, 37, 42, 51, 52, 57, 58, 64, 68, 71, 78, 83]
+Choose 22
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  @  @  @  .  o  .  .  ?
+?  o  o  @  @  o  o  .  .  ?
+?  @  .  @  @  @  @  @  .  ?
+?  .  .  @  o  @  .  .  .  ?
+?  o  o  o  .  @  @  o  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 14
+Black: 21
+White Possible Moves: [12, 13, 21, 25, 37, 51, 52, 56, 57, 58, 64, 75, 78, 83, 84, 85, 86, 87]
+Choose 52
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  @  @  @  .  o  .  .  ?
+?  o  o  @  @  o  o  .  .  ?
+?  @  .  @  @  @  @  @  .  ?
+?  .  o  o  o  @  .  .  .  ?
+?  o  o  o  .  @  @  o  .  ?
+?  .  o  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 16
+Black: 20
+Black Possible Moves: [16, 21, 25, 27, 37, 42, 51, 57, 58, 64, 68, 71, 78, 83]
+Choose 71
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  @  @  @  .  o  .  .  ?
+?  o  o  @  @  o  o  .  .  ?
+?  @  .  @  @  @  @  @  .  ?
+?  .  o  @  o  @  .  .  .  ?
+?  o  @  o  .  @  @  o  .  ?
+?  @  @  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 13
+Black: 24
+White Possible Moves: [12, 13, 21, 25, 37, 51, 56, 57, 58, 64, 75, 83, 84, 85, 86, 87]
+Choose 57
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  @  @  @  .  o  .  .  ?
+?  o  o  @  @  o  o  .  .  ?
+?  @  .  @  @  @  o  @  .  ?
+?  .  o  @  o  @  .  o  .  ?
+?  o  @  o  .  @  @  o  .  ?
+?  @  @  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 15
+Black: 23
+Black Possible Moves: [16, 21, 25, 27, 37, 42, 48, 51, 58, 64, 68, 78, 83]
+Choose 25
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  .  .  o  .  .  o  .  ?
+?  .  @  @  @  @  o  .  .  ?
+?  o  o  @  @  @  @  .  .  ?
+?  @  .  @  @  @  o  @  .  ?
+?  .  o  @  o  @  .  o  .  ?
+?  o  @  o  .  @  @  o  .  ?
+?  @  @  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 13
+Black: 26
+White Possible Moves: [12, 13, 16, 21, 27, 37, 42, 48, 51, 56, 58, 64, 75, 83, 84, 85, 86, 87]
+Choose 12
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  .  o  @  @  @  o  .  .  ?
+?  o  o  @  @  @  @  .  .  ?
+?  @  .  @  @  @  o  @  .  ?
+?  .  o  @  o  @  .  o  .  ?
+?  o  @  o  .  @  @  o  .  ?
+?  @  @  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 15
+Black: 25
+Black Possible Moves: [11, 16, 21, 27, 37, 42, 48, 51, 56, 58, 64, 68, 78, 83]
+Choose 21
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  .  .  ?
+?  @  @  @  @  @  @  .  .  ?
+?  @  .  @  @  @  o  @  .  ?
+?  .  o  @  o  @  .  o  .  ?
+?  o  @  o  .  @  @  o  .  ?
+?  @  @  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 12
+Black: 29
+White Possible Moves: [11, 13, 16, 27, 37, 42, 48, 56, 58, 64, 75, 83, 84, 85, 86, 87]
+Choose 48
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  .  .  ?
+?  @  @  @  @  @  @  .  .  ?
+?  @  .  @  @  @  o  o  o  ?
+?  .  o  @  o  @  .  o  .  ?
+?  o  @  o  .  @  @  o  .  ?
+?  @  @  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 14
+Black: 28
+Black Possible Moves: [16, 27, 37, 38, 42, 51, 56, 58, 64, 68, 78, 83]
+Choose 64
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  .  .  ?
+?  @  @  @  @  @  @  .  .  ?
+?  @  .  @  @  @  o  o  o  ?
+?  .  o  @  @  @  .  o  .  ?
+?  o  @  @  @  @  @  o  .  ?
+?  @  @  @  @  .  @  @  .  ?
+?  @  o  .  .  .  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 12
+Black: 31
+White Possible Moves: [11, 13, 16, 42, 56, 75, 83, 84, 85, 86, 87]
+Choose 85
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  .  .  ?
+?  @  @  @  @  @  @  .  .  ?
+?  @  .  @  @  @  o  o  o  ?
+?  .  o  @  @  @  .  o  .  ?
+?  o  @  o  @  @  @  o  .  ?
+?  @  @  @  o  .  o  @  .  ?
+?  @  o  .  .  o  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 16
+Black: 28
+Black Possible Moves: [16, 27, 37, 38, 42, 51, 56, 58, 68, 75, 78, 83, 84, 86, 87]
+Choose 37
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  .  .  ?
+?  @  @  @  @  @  @  @  .  ?
+?  @  .  @  @  @  @  @  o  ?
+?  .  o  @  @  @  .  @  .  ?
+?  o  @  o  @  @  @  @  .  ?
+?  @  @  @  o  .  o  @  .  ?
+?  @  o  .  .  o  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 12
+Black: 33
+White Possible Moves: [11, 13, 15, 16, 27, 28, 38, 42, 56, 58, 68, 75, 78, 83, 87]
+Choose 78
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  .  .  ?
+?  @  @  @  @  @  @  @  .  ?
+?  @  .  @  @  @  @  @  o  ?
+?  .  o  @  @  @  .  @  .  ?
+?  o  @  o  @  @  @  @  .  ?
+?  @  @  @  o  .  o  o  o  ?
+?  @  o  .  .  o  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 14
+Black: 32
+Black Possible Moves: [15, 16, 27, 38, 42, 51, 68, 75, 83, 84, 86, 87]
+Choose 51
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  .  .  ?
+?  @  @  @  @  @  @  @  .  ?
+?  @  .  @  @  @  @  @  o  ?
+?  @  @  @  @  @  .  @  .  ?
+?  @  @  o  @  @  @  @  .  ?
+?  @  @  @  o  .  o  o  o  ?
+?  @  o  .  .  o  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 12
+Black: 35
+White Possible Moves: [11, 13, 15, 27, 28, 38, 42, 56, 58, 68, 75, 83]
+Choose 27
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  .  @  @  o  @  o  o  ?
+?  @  @  @  o  @  .  o  .  ?
+?  @  @  o  @  @  @  o  .  ?
+?  @  @  @  o  .  o  o  o  ?
+?  @  o  .  .  o  .  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 20
+Black: 28
+Black Possible Moves: [16, 18, 28, 38, 56, 58, 68, 75, 83, 84, 86, 87]
+Choose 86
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  .  @  @  o  @  o  o  ?
+?  @  @  @  o  @  .  o  .  ?
+?  @  @  o  @  @  @  o  .  ?
+?  @  @  @  o  .  @  o  o  ?
+?  @  o  .  .  o  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 19
+Black: 30
+White Possible Moves: [11, 13, 15, 42, 56, 75, 83, 87]
+Choose 83
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  .  @  @  o  @  o  o  ?
+?  @  @  @  o  @  .  o  .  ?
+?  @  @  o  @  @  @  o  .  ?
+?  @  @  o  o  .  @  o  o  ?
+?  @  o  o  .  o  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 21
+Black: 29
+Black Possible Moves: [16, 18, 28, 38, 56, 58, 68, 75, 84]
+Choose 68
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  .  @  @  o  @  o  o  ?
+?  @  @  @  o  @  .  @  .  ?
+?  @  @  o  @  @  @  @  @  ?
+?  @  @  o  o  .  @  @  @  ?
+?  @  o  o  .  o  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 17
+Black: 34
+White Possible Moves: [13, 15, 42, 56, 58, 75, 87]
+Choose 75
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  @  @  @  @  o  o  .  ?
+?  @  .  @  @  o  @  o  o  ?
+?  @  @  @  o  o  .  o  .  ?
+?  @  @  o  @  o  o  @  @  ?
+?  @  @  o  o  o  @  @  @  ?
+?  @  o  o  .  o  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 22
+Black: 30
+Black Possible Moves: [16, 18, 28, 38, 56, 58, 84]
+Choose 18
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  @  ?
+?  @  @  @  @  @  o  @  .  ?
+?  @  @  @  @  @  @  o  .  ?
+?  @  .  @  @  @  @  o  o  ?
+?  @  @  @  @  o  .  o  .  ?
+?  @  @  @  @  o  o  @  @  ?
+?  @  @  o  o  o  @  @  @  ?
+?  @  o  o  .  o  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 17
+Black: 36
+White Possible Moves: [11, 13, 15, 28, 42, 56, 58, 87]
+Choose 56
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  @  ?
+?  @  @  o  @  @  o  @  .  ?
+?  @  @  @  o  @  o  o  .  ?
+?  @  .  @  @  o  o  o  o  ?
+?  @  @  @  @  o  o  o  .  ?
+?  @  @  @  @  o  o  @  @  ?
+?  @  @  o  o  o  @  @  @  ?
+?  @  o  o  .  o  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 23
+Black: 31
+Black Possible Moves: [11, 13, 16, 28, 38, 58, 84]
+Choose 84
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  @  ?
+?  @  @  o  @  @  o  @  .  ?
+?  @  @  @  o  @  o  o  .  ?
+?  @  .  @  @  o  o  o  o  ?
+?  @  @  @  @  o  o  o  .  ?
+?  @  @  @  @  o  o  @  @  ?
+?  @  @  @  @  o  @  @  @  ?
+?  @  @  @  @  @  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 18
+Black: 37
+White Possible Moves: [11, 13, 15, 16, 28, 42, 87]
+Choose 28
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  .  o  .  .  o  @  ?
+?  @  @  o  @  @  o  o  o  ?
+?  @  @  @  o  @  o  o  .  ?
+?  @  .  @  @  o  o  o  o  ?
+?  @  @  @  @  o  o  o  .  ?
+?  @  @  @  @  o  o  @  @  ?
+?  @  @  @  @  o  @  @  @  ?
+?  @  @  @  @  @  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 20
+Black: 36
+Black Possible Moves: [11, 13, 16, 38, 58]
+Choose 13
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  @  o  .  .  o  @  ?
+?  @  @  @  @  @  o  o  o  ?
+?  @  @  @  o  @  o  o  .  ?
+?  @  .  @  @  o  o  o  o  ?
+?  @  @  @  @  o  o  o  .  ?
+?  @  @  @  @  o  o  @  @  ?
+?  @  @  @  @  o  @  @  @  ?
+?  @  @  @  @  @  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 19
+Black: 38
+White Possible Moves: [11, 15, 16, 42, 87]
+Choose 42
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  .  o  @  o  .  .  o  @  ?
+?  @  o  @  @  @  o  o  o  ?
+?  @  o  @  o  @  o  o  .  ?
+?  @  o  o  o  o  o  o  o  ?
+?  @  @  o  @  o  o  o  .  ?
+?  @  @  @  o  o  o  @  @  ?
+?  @  @  @  @  o  @  @  @  ?
+?  @  @  @  @  @  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 26
+Black: 32
+Black Possible Moves: [11, 15, 16, 38, 58]
+Choose 11
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  @  @  @  o  .  .  o  @  ?
+?  @  @  @  @  @  o  o  o  ?
+?  @  o  @  o  @  o  o  .  ?
+?  @  o  o  o  o  o  o  o  ?
+?  @  @  o  @  o  o  o  .  ?
+?  @  @  @  o  o  o  @  @  ?
+?  @  @  @  @  o  @  @  @  ?
+?  @  @  @  @  @  @  .  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 24
+Black: 35
+White Possible Moves: [15, 16, 87]
+Choose 87
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  @  @  @  o  .  .  o  @  ?
+?  @  @  @  @  @  o  o  o  ?
+?  @  o  @  o  @  o  o  .  ?
+?  @  o  o  o  o  o  o  o  ?
+?  @  @  o  @  o  o  o  .  ?
+?  @  @  @  o  o  o  o  @  ?
+?  @  @  @  @  o  o  o  @  ?
+?  @  @  @  @  @  @  o  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 28
+Black: 32
+Black Possible Moves: [15, 16, 38, 58]
+Choose 16
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  @  @  @  o  .  @  @  @  ?
+?  @  @  @  @  @  @  o  o  ?
+?  @  o  @  o  @  @  o  .  ?
+?  @  o  o  o  o  @  o  o  ?
+?  @  @  o  @  o  @  o  .  ?
+?  @  @  @  o  o  @  o  @  ?
+?  @  @  @  @  o  @  o  @  ?
+?  @  @  @  @  @  @  o  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 21
+Black: 40
+White Possible Moves: [15]
+Choose 15
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  @  @  @  o  o  @  @  @  ?
+?  @  @  @  o  o  o  o  o  ?
+?  @  o  o  o  o  @  o  .  ?
+?  @  o  o  o  o  @  o  o  ?
+?  @  @  o  @  o  @  o  .  ?
+?  @  @  @  o  o  @  o  @  ?
+?  @  @  @  @  o  @  o  @  ?
+?  @  @  @  @  @  @  o  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 27
+Black: 35
+Black Possible Moves: [38, 58]
+Choose 58
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  @  @  @  o  o  @  @  @  ?
+?  @  @  @  o  o  o  o  o  ?
+?  @  o  o  o  o  @  o  .  ?
+?  @  o  o  o  o  @  @  o  ?
+?  @  @  o  @  o  @  @  @  ?
+?  @  @  @  o  o  @  @  @  ?
+?  @  @  @  @  o  @  o  @  ?
+?  @  @  @  @  @  @  o  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 24
+Black: 39
+White Possible Moves: [38]
+Choose 38
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+?  @  @  @  o  o  @  @  @  ?
+?  @  @  @  o  o  o  o  o  ?
+?  @  o  o  o  o  @  o  o  ?
+?  @  o  o  o  o  @  o  o  ?
+?  @  @  o  @  o  o  @  @  ?
+?  @  @  @  o  o  @  @  @  ?
+?  @  @  @  @  o  @  o  @  ?
+?  @  @  @  @  @  @  o  @  ?
+?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+White: 27
+Black: 37
+Percent White: 0.421875
+Percent Black: 0.578125
+
+[34, 33, 43, 35, 66, 65, 23, 63, 26, 36, 76, 17, 73, 32, 41, 77, 62, 82, 88, 31, 74, 14, 53, 72, 81, 46, 24, 61, 47, 67, 22, 52, 71, 57, 25, 12, 21, 48, 64, 85, 37, 78, 51, 27, 86, 83, 68, 75, 18, 56, 84, 28, 13, 42, 11, 87, 16, 15, 58, 38]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\libraries: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\libraries
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1A-Blink: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1A-Blink
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1B-Potentiometer: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1B-Potentiometer
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1C-Photoresistor: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1C-Photoresistor
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1D-RGBNightlight: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1D-RGBNightlight
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2A-Buzzer: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2A-Buzzer
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2B-DigitalTrumpet: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2B-DigitalTrumpet
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2C-SimonSays: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2C-SimonSays
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3A-Servo: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3A-Servo
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3B-DistanceSensor: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3B-DistanceSensor
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3C-MotionAlarm: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3C-MotionAlarm
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4A-LCDHelloWorld: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4A-LCDHelloWorld
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4B-TemperatureSensor: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4B-TemperatureSensor
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4C-DIYWhoAmI: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4C-DIYWhoAmI
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5A-MotorBasics: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5A-MotorBasics
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5B-RemoteControlRobot: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5B-RemoteControlRobot
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5C-AutonomousRobot: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5C-AutonomousRobot
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\libraries: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\libraries
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1A-Blink: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1A-Blink
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1B-Potentiometer: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1B-Potentiometer
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1C-Photoresistor: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1C-Photoresistor
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1D-RGBNightlight: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_1D-RGBNightlight
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2A-Buzzer: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2A-Buzzer
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2B-DigitalTrumpet: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2B-DigitalTrumpet
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2C-SimonSays: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_2C-SimonSays
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3A-Servo: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3A-Servo
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3B-DistanceSensor: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3B-DistanceSensor
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3C-MotionAlarm: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_3C-MotionAlarm
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4A-LCDHelloWorld: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4A-LCDHelloWorld
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4B-TemperatureSensor: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4B-TemperatureSensor
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4C-DIYWhoAmI: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_4C-DIYWhoAmI
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5A-MotorBasics: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5A-MotorBasics
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5B-RemoteControlRobot: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5B-RemoteControlRobot
+Invalid library found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5C-AutonomousRobot: no headers files (.h) found in C:\Users\1707378\Documents\Arduino\libraries\SIK_Circuit_5C-AutonomousRobot
